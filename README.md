@@ -22,8 +22,9 @@ Tech-stacks:-
 Frontend: React.js (with Context API), Tailwind CSS 
 Backend: Node.js, Express.js
 Database: MongoDB
-Authentication: JWT-based, role-based access control
-Deployment:  Nginx, PM2 (for process management) and aws, mongodb 
+Authentication: JWT-based, role-based access control, 
+Deployment:  Nginx, PM2 (for process management) and aws, mongodb
+Testing Tools: JEST
 
 Optional: WebSockets for real-time chat/notifications
 
